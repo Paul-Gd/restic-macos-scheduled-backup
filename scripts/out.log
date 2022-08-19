@@ -1,0 +1,4802 @@
+Sat Jan 15 19:06:11 EET 2022 Starting backup script
+Restic backup failed. Exit code 127
+Sat Jan 15 19:07:30 EET 2022 Starting backup script
+Restic backup failed. Exit code 1
+Sat Jan 15 19:08:31 EET 2022 Starting backup script
+open repository
+Restic backup failed. Exit code 1
+Sat Jan 15 19:11:57 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e75a9816
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.700s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 762 B
+
+processed 1 files, 34 B in 0:11
+snapshot 9fddf044 saved
+Restic backup successful
+Sun Jan 16 17:33:53 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 9fddf044
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.397s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      7 new
+Added to the repo: 2.786 KiB
+
+processed 1 files, 34 B in 0:09
+snapshot 3873e080 saved
+Restic backup successful
+Mon Jan 17 11:14:00 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 3873e080
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.063s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      7 new
+Added to the repo: 2.786 KiB
+
+processed 1 files, 34 B in 0:30
+snapshot 76d95d08 saved
+Restic backup successful
+Mon Jan 17 18:53:25 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 76d95d08
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.536s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 759 B
+
+processed 1 files, 34 B in 0:11
+snapshot d62552c1 saved
+Restic backup successful
+Tue Jan 18 18:01:21 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d62552c1
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.300s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      7 new
+Added to the repo: 2.786 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 22f95cab saved
+Restic backup successful
+Tue Jan 18 20:04:04 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 22f95cab
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.405s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot 0f3c61ff saved
+Restic backup successful
+Tue Jan 18 22:59:10 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 0f3c61ff
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.399s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot b2e2f877 saved
+Restic backup successful
+Wed Jan 19 23:35:49 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b2e2f877
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.885s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot 933d3727 saved
+Restic backup successful
+Thu Jan 20 20:52:14 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 933d3727
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.253s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      7 new
+Added to the repo: 2.786 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot d6ab6e25 saved
+Restic backup successful
+Fri Jan 21 10:06:16 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d6ab6e25
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.669s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.272 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 7327428e saved
+Restic backup successful
+Sat Jan 22 11:52:05 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 7327428e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.847s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot d617444e saved
+Restic backup successful
+Sat Jan 22 20:09:07 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d617444e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.074s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:05
+snapshot 3444fa23 saved
+Restic backup successful
+Mon Jan 24 11:22:48 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 3444fa23
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.383s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot bb82828e saved
+Restic backup successful
+Tue Jan 25 19:40:13 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot bb82828e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 92.107s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 1:54
+snapshot 55a5fd12 saved
+Restic backup successful
+Wed Jan 26 09:15:58 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 55a5fd12
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.085s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot d7c04c5c saved
+Restic backup successful
+Wed Jan 26 20:53:58 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d7c04c5c
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.421s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 2a7af446 saved
+Restic backup successful
+Thu Jan 27 20:08:11 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 2a7af446
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.156s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      7 new
+Added to the repo: 2.786 KiB
+
+processed 1 files, 34 B in 0:15
+snapshot f176e0b0 saved
+Restic backup successful
+Fri Jan 28 16:47:24 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f176e0b0
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.328s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot 8188986c saved
+Restic backup successful
+Sat Jan 29 17:45:25 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 8188986c
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.020s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 31c47cd8 saved
+Restic backup successful
+Sun Jan 30 18:12:11 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 31c47cd8
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.930s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot ec90c204 saved
+Restic backup successful
+Mon Jan 31 09:45:02 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot ec90c204
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.211s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:09
+snapshot 5f95f35d saved
+Restic backup successful
+Mon Jan 31 10:54:50 EET 2022 Starting backup script
+Mon Jan 31 11:03:10 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 5f95f35d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.996s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot 232c21c3 saved
+Restic backup successful
+Mon Jan 31 13:49:05 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 232c21c3
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.637s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot 90ecee3f saved
+Restic backup successful
+Mon Jan 31 15:34:24 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 90ecee3f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.981s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot 9863b9d5 saved
+Restic backup successful
+Mon Jan 31 16:58:54 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 9863b9d5
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.629s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot d46163c1 saved
+Restic backup successful
+Mon Jan 31 23:12:55 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d46163c1
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.151s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:08
+snapshot 359ae5e7 saved
+Restic backup successful
+Tue Feb  1 19:07:26 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 359ae5e7
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.502s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:08
+snapshot 603024d4 saved
+Restic backup successful
+Tue Feb  1 21:12:59 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 603024d4
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.147s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot a310f381 saved
+Restic backup successful
+Wed Feb  2 07:58:43 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot a310f381
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.044s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot c1138db2 saved
+Restic backup successful
+Wed Feb  2 21:21:01 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c1138db2
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.482s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot df97ace2 saved
+Restic backup successful
+Thu Feb  3 20:57:57 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot df97ace2
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.522s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 5e2452be saved
+Restic backup successful
+Sat Feb  5 11:00:42 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 5e2452be
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.320s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot d3d7ce22 saved
+Restic backup successful
+Sat Feb  5 22:50:15 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d3d7ce22
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.555s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot da341fb2 saved
+Restic backup successful
+Sun Feb  6 16:32:51 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot da341fb2
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.005s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:08
+snapshot f6dc499f saved
+Restic backup successful
+Mon Feb  7 09:19:12 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f6dc499f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.048s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 6a21dc74 saved
+Restic backup successful
+Mon Feb  7 10:10:06 EET 2022 Starting backup script
+Mon Feb  7 10:46:22 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6a21dc74
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.818s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot 99810fc6 saved
+Restic backup successful
+Mon Feb  7 14:27:15 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 99810fc6
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.716s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot bc4cd4af saved
+Restic backup successful
+Mon Feb  7 19:31:54 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot bc4cd4af
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.993s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot 71554b19 saved
+Restic backup successful
+Mon Feb  7 22:17:46 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 71554b19
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.365s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:05
+snapshot 0de06c15 saved
+Restic backup successful
+Tue Feb  8 18:58:17 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 0de06c15
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.204s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot 6ce07e8d saved
+Restic backup successful
+Wed Feb  9 09:16:11 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6ce07e8d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.985s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:05
+snapshot 472087e8 saved
+Restic backup successful
+Wed Feb  9 19:17:39 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 472087e8
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.471s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:05
+snapshot 949080dd saved
+Restic backup successful
+Wed Feb  9 21:53:28 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 949080dd
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.926s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:08
+snapshot f561f5d6 saved
+Restic backup successful
+Thu Feb 10 08:50:19 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f561f5d6
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.398s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot 610fa0e5 saved
+Restic backup successful
+Thu Feb 10 10:38:47 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 610fa0e5
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.373s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:08
+snapshot cf6e58d8 saved
+Restic backup successful
+Thu Feb 10 22:15:17 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot cf6e58d8
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.865s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:10
+snapshot 6574a84e saved
+Restic backup successful
+Fri Feb 11 09:34:21 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6574a84e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.709s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:17
+snapshot e7e5c6d2 saved
+Restic backup successful
+Fri Feb 11 11:08:52 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e7e5c6d2
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.542s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 0b1cb9bc saved
+Restic backup successful
+Fri Feb 11 23:50:20 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 0b1cb9bc
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.307s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     3 changed,     3 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot fa4db4bf saved
+Restic backup successful
+Sat Feb 12 10:34:30 EET 2022 Starting backup script
+Could not reach 1.1.1.1 after 10 attempts. Backup not started!
+Sun Feb 13 13:24:30 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot fa4db4bf
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.698s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:09
+snapshot f1016f78 saved
+Restic backup successful
+Mon Feb 14 17:41:42 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f1016f78
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.167s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:09
+snapshot f0482fc4 saved
+Restic backup successful
+Wed Feb 16 20:48:15 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f0482fc4
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.990s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot c6848fb1 saved
+Restic backup successful
+Thu Feb 17 17:37:45 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c6848fb1
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.653s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 3ef344db saved
+Restic backup successful
+Fri Feb 18 08:15:10 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 3ef344db
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.591s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 4ef4e356 saved
+Restic backup successful
+Fri Feb 18 18:30:00 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 4ef4e356
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.146s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:12
+snapshot ecd71a81 saved
+Restic backup successful
+Sat Feb 19 00:17:31 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot ecd71a81
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.534s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:09
+snapshot 181a3334 saved
+Restic backup successful
+Sat Feb 19 08:51:16 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 181a3334
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.210s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot b978557f saved
+Restic backup successful
+Sun Feb 20 07:49:11 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b978557f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.067s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 4ad83c1e saved
+Restic backup successful
+Sun Feb 20 21:44:05 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 4ad83c1e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.683s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:09
+snapshot d9ca42dd saved
+Restic backup successful
+Mon Feb 21 09:43:18 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d9ca42dd
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.693s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot e37d51cb saved
+Restic backup successful
+Mon Feb 21 11:10:30 EET 2022 Starting backup script
+Could not reach 1.1.1.1 after 10 attempts. Backup not started!
+Mon Feb 21 18:02:45 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e37d51cb
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.557s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 1952cd64 saved
+Restic backup successful
+Tue Feb 22 09:34:06 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 1952cd64
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.298s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 3a9b3f7f saved
+Restic backup successful
+Tue Feb 22 16:30:48 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 3a9b3f7f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.441s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot eb968aa8 saved
+Restic backup successful
+Wed Feb 23 09:22:34 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot eb968aa8
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.631s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 693978a0 saved
+Restic backup successful
+Wed Feb 23 16:55:25 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 693978a0
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.895s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 21e31528 saved
+Restic backup successful
+Wed Feb 23 22:05:56 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 21e31528
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 22.356s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:27
+snapshot 13553e51 saved
+Restic backup successful
+Thu Feb 24 08:39:29 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 13553e51
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.458s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:09
+snapshot 4c474f66 saved
+Restic backup successful
+Thu Feb 24 17:10:12 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 4c474f66
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.527s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot e3e1e058 saved
+Restic backup successful
+Thu Feb 24 17:39:25 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e3e1e058
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.053s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 81d71872 saved
+Restic backup successful
+Thu Feb 24 19:22:13 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 81d71872
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.988s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot d621b363 saved
+Restic backup successful
+Sun Feb 27 21:15:15 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d621b363
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.761s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 122d1fea saved
+Restic backup successful
+Mon Feb 28 18:20:27 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 122d1fea
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.000s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:14
+snapshot 92aa57f8 saved
+Restic backup successful
+Tue Mar  1 18:43:14 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 92aa57f8
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.041s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     3 changed,     3 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot a642ba1e saved
+Restic backup successful
+Tue Mar  1 21:12:07 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot a642ba1e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.301s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot aaee23f7 saved
+Restic backup successful
+Wed Mar  2 18:47:38 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot aaee23f7
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.180s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 88fe2f7e saved
+Restic backup successful
+Thu Mar  3 09:54:40 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 88fe2f7e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.701s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 34858778 saved
+Restic backup successful
+Thu Mar  3 21:10:58 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 34858778
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.657s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:16
+snapshot 8757fe98 saved
+Restic backup successful
+Fri Mar  4 11:40:58 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 8757fe98
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.734s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot e635eb27 saved
+Restic backup successful
+Fri Mar  4 17:19:00 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e635eb27
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.306s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:09
+snapshot b143a7e0 saved
+Restic backup successful
+Mon Mar  7 09:29:30 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b143a7e0
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.202s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 4eb77503 saved
+Restic backup successful
+Mon Mar  7 15:11:40 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 4eb77503
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.833s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 06515a0d saved
+Restic backup successful
+Mon Mar  7 18:02:03 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 06515a0d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.409s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 53ca825f saved
+Restic backup successful
+Tue Mar  8 16:57:21 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 53ca825f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.978s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot a4f3a45f saved
+Restic backup successful
+Tue Mar  8 18:22:43 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot a4f3a45f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.374s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot 468cdbdf saved
+Restic backup successful
+Wed Mar  9 18:02:27 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 468cdbdf
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.776s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot 201b72ac saved
+Restic backup successful
+Thu Mar 10 20:08:59 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 201b72ac
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.524s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 6f383bd3 saved
+Restic backup successful
+Fri Mar 11 16:02:20 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6f383bd3
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.767s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 6bb870df saved
+Restic backup successful
+Sat Mar 12 10:32:19 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6bb870df
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.234s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot e67cd2aa saved
+Restic backup successful
+Sun Mar 13 09:47:47 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e67cd2aa
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 4.873s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:08
+snapshot 3d757bfb saved
+Restic backup successful
+Sun Mar 13 20:39:28 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 3d757bfb
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.775s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     3 changed,     3 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot eba3ab5f saved
+Restic backup successful
+Mon Mar 14 13:54:47 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot eba3ab5f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.800s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 8d89c10c saved
+Restic backup successful
+Mon Mar 14 21:07:01 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 8d89c10c
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.240s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 92dbe696 saved
+Restic backup successful
+Tue Mar 15 18:12:13 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 92dbe696
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.803s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:15
+snapshot 10e3bcfb saved
+Restic backup successful
+Tue Mar 15 20:53:03 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 10e3bcfb
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.876s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:16
+snapshot 57e64092 saved
+Restic backup successful
+Wed Mar 16 09:34:19 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 57e64092
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.924s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 94e13349 saved
+Restic backup successful
+Wed Mar 16 15:24:16 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 94e13349
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.490s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot a12e7c34 saved
+Restic backup successful
+Wed Mar 16 17:01:46 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot a12e7c34
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.428s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:08
+snapshot 0f1d85a3 saved
+Restic backup successful
+Wed Mar 16 18:32:36 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 0f1d85a3
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.768s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:11
+snapshot 16e34815 saved
+Restic backup successful
+Thu Mar 17 16:47:44 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 16e34815
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.320s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 7a91f504 saved
+Restic backup successful
+Fri Mar 18 08:13:22 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 7a91f504
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 10.220s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot 25332eae saved
+Restic backup successful
+Sat Mar 19 09:34:15 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 25332eae
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.588s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot ee559792 saved
+Restic backup successful
+Sun Mar 20 00:59:12 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot ee559792
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.299s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:11
+snapshot 970e9722 saved
+Restic backup successful
+Sun Mar 20 18:02:28 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 970e9722
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.170s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot 7bc4168f saved
+Restic backup successful
+Sun Mar 20 19:29:49 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 7bc4168f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.687s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     3 changed,     3 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot d096f834 saved
+Restic backup successful
+Mon Mar 21 21:40:41 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d096f834
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.909s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot 3a57d7be saved
+Restic backup successful
+Tue Mar 22 18:49:28 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 3a57d7be
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.277s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot e3ad91c1 saved
+Restic backup successful
+Wed Mar 23 20:48:27 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e3ad91c1
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.122s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot 9155dcc3 saved
+Restic backup successful
+Thu Mar 24 21:25:24 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 9155dcc3
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.915s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot c62bd12b saved
+Restic backup successful
+Fri Mar 25 18:32:06 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c62bd12b
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.698s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:17
+snapshot 9bbe29d6 saved
+Restic backup successful
+Sat Mar 26 21:52:51 EET 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 9bbe29d6
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.554s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      4 new
+Added to the repo: 1.655 KiB
+
+processed 1 files, 34 B in 0:15
+snapshot 569f0d07 saved
+Restic backup successful
+Sun Mar 27 17:16:01 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 569f0d07
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.029s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      4 new
+Added to the repo: 1.652 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 086f5958 saved
+Restic backup successful
+Sun Mar 27 18:31:31 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 086f5958
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.983s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      4 new
+Added to the repo: 1.652 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 6f9e71d3 saved
+Restic backup successful
+Mon Mar 28 08:02:55 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6f9e71d3
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.189s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:11
+snapshot b06deda5 saved
+Restic backup successful
+Mon Mar 28 09:40:22 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b06deda5
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.300s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:13
+snapshot cd2c7437 saved
+Restic backup successful
+Tue Mar 29 16:07:03 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot cd2c7437
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.928s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:12
+snapshot 73699a75 saved
+Restic backup successful
+Wed Mar 30 17:44:31 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 73699a75
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.726s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      4 new
+Added to the repo: 1.655 KiB
+
+processed 1 files, 34 B in 0:15
+snapshot e61ddeae saved
+Restic backup successful
+Thu Mar 31 19:01:11 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e61ddeae
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.817s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      4 new
+Added to the repo: 1.655 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot c65b162d saved
+Restic backup successful
+Sat Apr  2 00:02:33 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c65b162d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.484s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:20
+snapshot fbefc515 saved
+Restic backup successful
+Sat Apr  2 00:08:19 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot fbefc515
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.834s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot d9be74be saved
+Restic backup successful
+Sat Apr  2 19:52:21 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d9be74be
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.099s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:13
+snapshot 00b312fc saved
+Restic backup successful
+Sat Apr  2 19:55:59 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 00b312fc
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.092s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:17
+snapshot 9d015d0a saved
+Restic backup successful
+Sun Apr  3 10:14:28 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 9d015d0a
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.718s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:13
+snapshot 114dfb0d saved
+Restic backup successful
+Sun Apr  3 19:16:14 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 114dfb0d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.079s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:11
+snapshot 34d8d153 saved
+Restic backup successful
+Mon Apr  4 19:58:58 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 34d8d153
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.418s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:12
+snapshot e8d3a322 saved
+Restic backup successful
+Tue Apr  5 07:20:51 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e8d3a322
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.567s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      4 new
+Added to the repo: 1.655 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 6fbbea1d saved
+Restic backup successful
+Tue Apr  5 09:01:21 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6fbbea1d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.645s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:13
+snapshot c04c3bc9 saved
+Restic backup successful
+Tue Apr  5 09:03:39 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c04c3bc9
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.744s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot ddf2c40e saved
+Restic backup successful
+Tue Apr  5 17:52:33 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot ddf2c40e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 10.461s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:16
+snapshot e255d2c9 saved
+Restic backup successful
+Wed Apr  6 09:53:03 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e255d2c9
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.397s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot 37081ccb saved
+Restic backup successful
+Wed Apr  6 19:36:04 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 37081ccb
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.761s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 10fbe6ad saved
+Restic backup successful
+Wed Apr  6 22:33:50 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 10fbe6ad
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 10.929s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:27
+snapshot 7e734020 saved
+Restic backup successful
+Thu Apr  7 07:42:13 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 7e734020
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.636s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:14
+snapshot e3d534e1 saved
+Restic backup successful
+Thu Apr  7 08:39:08 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e3d534e1
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.510s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot badc8ea0 saved
+Restic backup successful
+Thu Apr  7 16:23:18 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot badc8ea0
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.754s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot 679b7871 saved
+Restic backup successful
+Thu Apr  7 18:35:53 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 679b7871
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.096s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot 1d8350e4 saved
+Restic backup successful
+Fri Apr  8 10:06:12 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 1d8350e4
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.292s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 770ce1b8 saved
+Restic backup successful
+Fri Apr  8 18:46:31 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 770ce1b8
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.007s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot fc95efbb saved
+Restic backup successful
+Sat Apr  9 08:18:25 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot fc95efbb
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.955s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot 5d0f46c9 saved
+Restic backup successful
+Mon Apr 11 20:00:23 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 5d0f46c9
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 10.818s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:11
+snapshot 0904fdfe saved
+Restic backup successful
+Tue Apr 12 19:17:48 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 0904fdfe
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.717s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot e8cbc3e8 saved
+Restic backup successful
+Thu Apr 14 18:47:50 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e8cbc3e8
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.767s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:14
+snapshot c48a2518 saved
+Restic backup successful
+Fri Apr 15 18:21:33 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c48a2518
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.779s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:15
+snapshot 89d5a23a saved
+Restic backup successful
+Sat Apr 16 08:34:35 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 89d5a23a
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 12.090s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:13
+snapshot b00ae7bf saved
+Restic backup successful
+Sat Apr 16 10:57:04 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b00ae7bf
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.748s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot e41010fc saved
+Restic backup successful
+Mon Apr 18 13:10:03 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e41010fc
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.694s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     3 changed,     3 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot d2bfab86 saved
+Restic backup successful
+Thu Apr 21 08:42:04 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d2bfab86
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.137s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      4 new
+Added to the repo: 1.655 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot 62584918 saved
+Restic backup successful
+Thu Apr 21 10:22:11 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 62584918
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.204s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:15
+snapshot 461be4b1 saved
+Restic backup successful
+Thu Apr 21 18:24:39 EEST 2022 Starting backup script
+Could not reach 1.1.1.1 after 10 attempts. Backup not started!
+Thu Apr 21 22:17:10 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 461be4b1
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.031s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:11
+snapshot 4f92091c saved
+Restic backup successful
+Fri Apr 22 09:16:59 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 4f92091c
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.017s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:12
+snapshot 5bafc886 saved
+Restic backup successful
+Fri Apr 22 11:39:31 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 5bafc886
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.786s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 7e4fa2a6 saved
+Restic backup successful
+Fri Apr 22 23:19:09 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 7e4fa2a6
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.115s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot 062c436b saved
+Restic backup successful
+Sun Apr 24 19:20:53 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 062c436b
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.115s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 56d67735 saved
+Restic backup successful
+Mon May  2 09:05:24 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 56d67735
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.379s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 1ea2d494 saved
+Restic backup successful
+Mon May  2 10:36:23 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 1ea2d494
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.818s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 78581a75 saved
+Restic backup successful
+Mon May  2 17:26:37 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 78581a75
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.491s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 62e2af77 saved
+Restic backup successful
+Tue May  3 17:43:14 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 62e2af77
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.356s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:11
+snapshot 1e40f474 saved
+Restic backup successful
+Wed May  4 16:14:56 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 1e40f474
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.240s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:09
+snapshot f1519aa3 saved
+Restic backup successful
+Wed May  4 20:36:52 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f1519aa3
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.789s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:12
+snapshot b8be3e96 saved
+Restic backup successful
+Thu May  5 17:28:10 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b8be3e96
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.626s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot ca682f80 saved
+Restic backup successful
+Thu May  5 22:13:37 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot ca682f80
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.549s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 3eabdc6d saved
+Restic backup successful
+Fri May  6 16:12:20 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 3eabdc6d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.934s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot bedd537c saved
+Restic backup successful
+Sat May  7 09:05:53 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot bedd537c
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.235s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot b17abe28 saved
+Restic backup successful
+Mon May  9 22:14:57 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b17abe28
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.530s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 1ae489ed saved
+Restic backup successful
+Tue May 10 19:15:13 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 1ae489ed
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.377s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot 68112e0c saved
+Restic backup successful
+Wed May 11 10:36:59 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 68112e0c
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.369s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:11
+snapshot 9bc3b878 saved
+Restic backup successful
+Wed May 11 12:07:34 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 9bc3b878
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.788s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:12
+snapshot 937a5047 saved
+Restic backup successful
+Wed May 11 18:25:28 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 937a5047
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 5.755s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:06
+snapshot ea5c3114 saved
+Restic backup successful
+Wed May 11 22:40:37 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot ea5c3114
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.926s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot 018c8c87 saved
+Restic backup successful
+Wed May 11 23:54:15 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 018c8c87
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.021s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:11
+snapshot 000027bc saved
+Restic backup successful
+Thu May 12 18:42:01 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 000027bc
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.524s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:11
+snapshot a730ae0d saved
+Restic backup successful
+Fri May 13 12:53:33 EEST 2022 Starting backup script
+Sun May 15 10:02:07 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot a730ae0d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.294s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:11
+snapshot 6f7a475b saved
+Restic backup successful
+Sun May 15 18:22:08 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6f7a475b
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.394s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot f55db299 saved
+Restic backup successful
+Mon May 16 21:13:31 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f55db299
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.621s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot c41ab210 saved
+Restic backup successful
+Tue May 17 19:06:47 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c41ab210
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.579s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot c61acfbd saved
+Restic backup successful
+Wed May 18 08:48:04 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c61acfbd
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.933s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot bff75174 saved
+Restic backup successful
+Wed May 18 17:03:37 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot bff75174
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.095s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot e608a67a saved
+Restic backup successful
+Wed May 18 18:09:10 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e608a67a
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.305s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:12
+snapshot 1022d925 saved
+Restic backup successful
+Wed May 18 20:25:57 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 1022d925
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.933s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot 2b701461 saved
+Restic backup successful
+Thu May 19 08:45:54 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 2b701461
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.744s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot 5714e76b saved
+Restic backup successful
+Thu May 19 18:13:22 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 5714e76b
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.040s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:09
+snapshot 7a53effe saved
+Restic backup successful
+Sat May 21 21:45:41 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 7a53effe
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 14.243s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:19
+snapshot f3d132ee saved
+Restic backup successful
+Tue May 24 19:24:02 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f3d132ee
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.200s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:10
+snapshot 2c37cc7b saved
+Restic backup successful
+Tue May 24 20:06:05 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 2c37cc7b
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.730s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:14
+snapshot 6c5b50ac saved
+Restic backup successful
+Wed May 25 17:48:06 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6c5b50ac
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.985s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:12
+snapshot 302a7657 saved
+Restic backup successful
+Thu May 26 10:20:47 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 302a7657
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.773s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot c1b8fa15 saved
+Restic backup successful
+Thu May 26 17:07:17 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c1b8fa15
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.871s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:14
+snapshot b168c7a9 saved
+Restic backup successful
+Thu May 26 22:04:27 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b168c7a9
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.304s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 55224404 saved
+Restic backup successful
+Fri May 27 17:47:14 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 55224404
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.574s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot b9511872 saved
+Restic backup successful
+Sat May 28 02:06:04 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b9511872
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.058s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 845b3f86 saved
+Restic backup successful
+Sun May 29 20:26:33 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 845b3f86
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.492s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot e1281665 saved
+Restic backup successful
+Mon May 30 18:54:57 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e1281665
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.249s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot e80bd978 saved
+Restic backup successful
+Tue May 31 16:07:52 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e80bd978
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 11.273s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:15
+snapshot ccc90f13 saved
+Restic backup successful
+Wed Jun  1 08:44:59 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot ccc90f13
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.922s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 69baf435 saved
+Restic backup successful
+Fri Jun  3 16:55:01 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 69baf435
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.958s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot cfb336b2 saved
+Restic backup successful
+Sun Jun  5 16:15:27 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot cfb336b2
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.371s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot c5dd8ba9 saved
+Restic backup successful
+Mon Jun  6 09:27:12 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c5dd8ba9
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.218s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 0628882f saved
+Restic backup successful
+Mon Jun  6 18:50:46 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 0628882f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.684s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot c7845210 saved
+Restic backup successful
+Tue Jun  7 08:12:06 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c7845210
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 10.777s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     3 changed,     3 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:15
+snapshot 57861568 saved
+Restic backup successful
+Tue Jun  7 17:29:38 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 57861568
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.330s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot bd7a6a84 saved
+Restic backup successful
+Tue Jun  7 21:11:58 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot bd7a6a84
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.583s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot 3d5d6e03 saved
+Restic backup successful
+Wed Jun  8 11:31:53 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 3d5d6e03
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.960s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot f23a37e6 saved
+Restic backup successful
+Wed Jun  8 16:25:08 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f23a37e6
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.396s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:11
+snapshot 570faa9d saved
+Restic backup successful
+Thu Jun  9 11:51:52 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 570faa9d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.361s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 604318d0 saved
+Restic backup successful
+Thu Jun  9 18:38:01 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 604318d0
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.753s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 1b0ff8d3 saved
+Restic backup successful
+Fri Jun 10 17:43:52 EEST 2022 Starting backup script
+Could not reach 1.1.1.1 after 10 attempts. Backup not started!
+Sat Jun 11 11:02:49 EEST 2022 Starting backup script
+Could not reach 1.1.1.1 after 10 attempts. Backup not started!
+Sat Jun 11 16:59:22 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 1b0ff8d3
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 21.326s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:23
+snapshot 762b9dde saved
+Restic backup successful
+Sat Jun 11 21:54:26 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 762b9dde
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.913s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     3 changed,     3 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 6079e23e saved
+Restic backup successful
+Sun Jun 12 13:26:46 EEST 2022 Starting backup script
+open repository
+Restic backup failed. Exit code 1
+Mon Jun 13 08:15:08 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6079e23e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.632s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:09
+snapshot e96d6d96 saved
+Restic backup successful
+Mon Jun 13 21:22:48 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e96d6d96
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.418s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot bb8c4afd saved
+Restic backup successful
+Tue Jun 14 09:19:16 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot bb8c4afd
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.345s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot ebffb299 saved
+Restic backup successful
+Tue Jun 14 18:16:11 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot ebffb299
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.422s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot a8e8748a saved
+Restic backup successful
+Wed Jun 15 17:49:06 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot a8e8748a
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.289s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot eff28930 saved
+Restic backup successful
+Sat Jun 18 09:02:06 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot eff28930
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.727s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot cbd23453 saved
+Restic backup successful
+Sat Jun 18 13:38:47 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot cbd23453
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.756s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot cef04e5d saved
+Restic backup successful
+Sun Jun 19 00:00:40 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot cef04e5d
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.270s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     1 changed,     5 unmodified
+Data Blobs:      0 new
+Tree Blobs:      1 new
+Added to the repo: 349 B
+
+processed 1 files, 34 B in 0:09
+snapshot 84349e2e saved
+Restic backup successful
+Sun Jun 19 08:04:20 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 84349e2e
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.718s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      1 new
+Added to the repo: 349 B
+
+processed 1 files, 34 B in 0:09
+snapshot 5e1466a0 saved
+Restic backup successful
+Tue Jun 21 10:14:56 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 5e1466a0
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.556s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:11
+snapshot 2c3034c2 saved
+Restic backup successful
+Tue Jun 21 14:28:37 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 2c3034c2
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.192s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 7835c012 saved
+Restic backup successful
+Sat Jun 25 08:40:47 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 7835c012
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 10.489s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:14
+snapshot 8a729aa4 saved
+Restic backup successful
+Sat Jun 25 08:58:55 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 8a729aa4
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.296s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 8daa200a saved
+Restic backup successful
+Sat Jun 25 10:14:33 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 8daa200a
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.016s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot 4dc0e884 saved
+Restic backup successful
+Thu Jun 30 11:20:03 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 4dc0e884
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.660s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot fd5c6869 saved
+Restic backup successful
+Thu Jun 30 13:41:52 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot fd5c6869
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.337s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot d8a4ea0a saved
+Restic backup successful
+Thu Jun 30 19:02:38 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d8a4ea0a
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.866s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 802b2793 saved
+Restic backup successful
+Thu Jun 30 20:02:13 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 802b2793
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.848s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot f7cff913 saved
+Restic backup successful
+Fri Jul  1 09:35:44 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f7cff913
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.177s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot 823e0fed saved
+Restic backup successful
+Fri Jul  1 15:24:45 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 823e0fed
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.798s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 53350e67 saved
+Restic backup successful
+Sun Jul  3 12:05:08 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 53350e67
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.477s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 18d4e658 saved
+Restic backup successful
+Mon Jul  4 09:01:17 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 18d4e658
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.473s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot 45680c5f saved
+Restic backup successful
+Mon Jul  4 09:17:23 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 45680c5f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.908s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 2e80f208 saved
+Restic backup successful
+Mon Jul  4 18:58:35 EEST 2022 Starting backup script
+Could not reach 1.1.1.1 after 10 attempts. Backup not started!
+Tue Jul  5 16:33:17 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 2e80f208
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.541s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot f08c357b saved
+Restic backup successful
+Tue Jul  5 17:01:05 EEST 2022 Starting backup script
+Tue Jul  5 18:59:03 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f08c357b
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.441s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 6dde3f6f saved
+Restic backup successful
+Sat Jul  9 11:17:17 EEST 2022 Starting backup script
+Could not reach 1.1.1.1 after 10 attempts. Backup not started!
+Mon Jul 11 14:00:01 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6dde3f6f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.196s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot d233072f saved
+Restic backup successful
+Mon Jul 11 17:44:31 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d233072f
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 12.017s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:13
+snapshot c0baf63a saved
+Restic backup successful
+Tue Jul 12 19:00:21 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c0baf63a
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.830s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot c1152137 saved
+Restic backup successful
+Wed Jul 13 20:15:22 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c1152137
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 25.053s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:26
+snapshot f60fcf35 saved
+Restic backup successful
+Thu Jul 14 14:04:22 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f60fcf35
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 6.734s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:07
+snapshot 374a040a saved
+Restic backup successful
+Thu Jul 14 15:25:36 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 374a040a
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.676s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 476cb305 saved
+Restic backup successful
+Thu Jul 14 17:43:15 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 476cb305
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.175s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot bbfec892 saved
+Restic backup successful
+Fri Jul 15 10:31:23 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot bbfec892
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.109s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot 2b61bc47 saved
+Restic backup successful
+Sat Jul 16 07:02:22 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 2b61bc47
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.410s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 906f5a9a saved
+Restic backup successful
+Wed Jul 27 21:10:58 EEST 2022 Starting backup script
+Could not reach 1.1.1.1 after 10 attempts. Backup not started!
+Sat Jul 30 10:34:22 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 906f5a9a
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.604s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:10
+snapshot 637c5dfa saved
+Restic backup successful
+Mon Aug  1 09:12:50 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 637c5dfa
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.836s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:16
+snapshot b34c7176 saved
+Restic backup successful
+Mon Aug  1 11:46:39 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot b34c7176
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.114s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 64f25c2b saved
+Restic backup successful
+Tue Aug  2 07:57:44 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 64f25c2b
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.842s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 2bc75acd saved
+Restic backup successful
+Tue Aug  2 13:58:30 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 2bc75acd
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.749s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:08
+snapshot 57412bbb saved
+Restic backup successful
+Tue Aug  2 15:02:44 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 57412bbb
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 10.879s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:12
+snapshot d22fd422 saved
+Restic backup successful
+Tue Aug  2 18:36:20 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot d22fd422
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 11.237s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:12
+snapshot 6ef0ea86 saved
+Restic backup successful
+Wed Aug  3 09:26:37 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6ef0ea86
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.857s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     0 changed,     6 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot c203f5ef saved
+Restic backup successful
+Sun Aug  7 19:49:41 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot c203f5ef
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.082s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot 80403db7 saved
+Restic backup successful
+Mon Aug  8 11:41:06 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 80403db7
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.028s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot 9e794fdd saved
+Restic backup successful
+Mon Aug  8 19:42:36 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 9e794fdd
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 9.295s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     2 changed,     4 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:17
+snapshot e8a4d1e2 saved
+Restic backup successful
+Tue Aug  9 18:36:32 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot e8a4d1e2
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.815s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 739 B
+
+processed 1 files, 34 B in 0:13
+snapshot 59011a00 saved
+Restic backup successful
+Wed Aug 10 22:11:09 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 59011a00
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 11.817s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:18
+snapshot 0d68fcc9 saved
+Restic backup successful
+Thu Aug 11 21:00:45 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 0d68fcc9
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.407s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 04897505 saved
+Restic backup successful
+Fri Aug 12 18:45:18 EEST 2022 Starting backup script
+Could not reach 1.1.1.1 after 10 attempts. Backup not started!
+Sat Aug 13 00:04:57 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 04897505
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.435s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:09
+snapshot 8d530128 saved
+Restic backup successful
+Sat Aug 13 11:01:37 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 8d530128
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.210s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot f0f4eafa saved
+Restic backup successful
+Sat Aug 13 12:28:35 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot f0f4eafa
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 11.028s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      0 new
+Added to the repo: 0 B  
+
+processed 1 files, 34 B in 0:12
+snapshot 91d4cb84 saved
+Restic backup successful
+Sun Aug 14 13:20:06 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 91d4cb84
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.936s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot bc8abdff saved
+Restic backup successful
+Mon Aug 15 11:50:29 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot bc8abdff
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.227s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:11
+snapshot 570aebb3 saved
+Restic backup successful
+Tue Aug 16 09:53:35 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 570aebb3
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 8.734s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 85752f87 saved
+Restic backup successful
+Wed Aug 17 14:54:12 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 85752f87
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.485s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.253 KiB
+
+processed 1 files, 34 B in 0:12
+snapshot 6950738c saved
+Restic backup successful
+Wed Aug 17 15:41:31 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 6950738c
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.242s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:10
+snapshot 85c109e3 saved
+Restic backup successful
+Wed Aug 17 21:58:59 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 85c109e3
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 11.465s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:15
+snapshot 7a186f20 saved
+Restic backup successful
+Thu Aug 18 12:25:37 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot 7a186f20
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 7.630s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      3 new
+Added to the repo: 1.256 KiB
+
+processed 1 files, 34 B in 0:13
+snapshot acdb8e8b saved
+Restic backup successful
+Thu Aug 18 12:50:13 EEST 2022 Starting backup script
+open repository
+lock repository
+load index files
+using parent snapshot acdb8e8b
+start scan on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+start backup on [/Users/paulpersonal/Documents/restic-macos-scheduled-backup/test]
+scan finished in 10.237s: 1 files, 34 B
+
+Files:           0 new,     0 changed,     1 unmodified
+Dirs:            0 new,     6 changed,     0 unmodified
+Data Blobs:      0 new
+Tree Blobs:      2 new
+Added to the repo: 742 B
+
+processed 1 files, 34 B in 0:17
+snapshot f05c00fc saved
+Restic backup successful

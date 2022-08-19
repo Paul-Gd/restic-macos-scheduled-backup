@@ -1,0 +1,12 @@
+/Users/paulpersonal/Documents/restic-macos-scheduled-backup/scripts/hello.sh: line 8: ./backup_repo.sh: No such file or directory
+/Users/paulpersonal/Documents/restic-macos-scheduled-backup/scripts/hello.sh: line 8: ./backup_repo.sh: No such file or directory
+/Users/paulpersonal/Documents/restic-macos-scheduled-backup/scripts/hello.sh: line 8: ./backup_repo.sh: No such file or directory
+/Users/paulpersonal/Documents/restic-macos-scheduled-backup/scripts/hello.sh: line 8: ./backup_repo.sh: No such file or directory
+/Users/paulpersonal/Documents/restic-macos-scheduled-backup/scripts/hello.sh: line 9: ./backup_repo.sh: No such file or directory
+/Users/paulpersonal/Documents/restic-macos-scheduled-backup/scripts/hello.sh: line 9: ./backup_repo.sh: No such file or directory
+/Users/paulpersonal/Documents/restic-macos-scheduled-backup/scripts/backup_repo.sh: line 3: restic: command not found
+Resolving password failed: fork/exec ./get_password.sh: no such file or directory
+Fatal: unable to open repo at rclone:OneDrive:/restic/test: exec: "rclone": executable file not found in $PATH
+rclone: 2022/01/25 19:44:02 ERROR : UnknownError: : upload chunks may be taking too long - try reducing --onedrive-chunk-size or decreasing --transfers
+rclone: 2022/04/06 22:34:59 ERROR : UnknownError: : upload chunks may be taking too long - try reducing --onedrive-chunk-size or decreasing --transfers
+Fatal: unable to open repo at rclone:OneDrive:/restic/test: error talking HTTP to rclone: Get "http://localhost/file-5577006791947779410": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
